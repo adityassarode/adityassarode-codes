@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Temperature",
+      "request": "launch",
+      "mainClass": "Temperature",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "AverageOfThree",
+      "request": "launch",
+      "mainClass": "AverageOfThree",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "PasswordGen",
+      "request": "launch",
+      "mainClass": "PasswordGen",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "Car",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "SortD",
+      "request": "launch",
+      "mainClass": "SortD",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "isSortd",
+      "request": "launch",
+      "mainClass": "isSortd",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "FileCopy",
+      "request": "launch",
+      "mainClass": "FileCopy",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "WordCount",
+      "request": "launch",
+      "mainClass": "WordCount",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "StringManipulation",
+      "request": "launch",
+      "mainClass": "StringManipulation",
+      "projectName": "adityassarode.CJAVA_d0bf23b9"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
