@@ -2,12 +2,6 @@
 
 //1e. Implement a program to print a simple pattern, such as a triangle or a square.
 
-
-//Aditya Sarode
-
-//1e. Implement a program to print a simple pattern, such as a triangle or a square.
-
-
 import java.util.Scanner;
 
 class Pattern {
